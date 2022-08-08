@@ -1,7 +1,7 @@
 <div align="center">
 
-## 코딩 못하는 컴공생입니다.
-컴퓨터 공학을 전공중인 코딩 못하는 컴공생입니다.
+## :wave: 코딩 못하는 컴공생입니다.
+코딩은 못하지만 컴공생입니다. 
 
 
 ## <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> GitHub 
