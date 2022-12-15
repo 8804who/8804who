@@ -13,7 +13,7 @@
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=8804who&layout=compact&theme=tokyonight" />
 </a>
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=8804&theme=tokyonight)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=8804who&theme=tokyonight)](https://git.io/streak-stats)
 
 
 ## <img src="https://user-images.githubusercontent.com/83859931/183429030-16ad6f8b-fb72-48e8-9f05-8df7f4c86643.png" alt="알고리즘 어려워요..." width="80"/> Baekjoon
