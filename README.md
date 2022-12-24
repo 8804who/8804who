@@ -1,7 +1,7 @@
 <div align="center">
 
-## :wave: 코딩 못하는 컴공생입니다.
-컴공생이지만 코딩은 못합니다.
+## :wave: 코딩 못하는 컴공입니다.
+컴공이지만 코딩은 못합니다.
 
 
 ## <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> GitHub 
