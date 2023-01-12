@@ -1,7 +1,7 @@
 <div align="center">
 
-## :wave: 코딩 하는 컴공입니다.
-컴공출신 개발자 지망생입니다.
+## :wave: 개발자가 되고 싶은 컴공입니다.
+컴공 개발자 지망생입니다.
 
 ## <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> GitHub 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F8804who%2Fhit-counter&count_bg=%236FC8D0&title_bg=%23498FED&icon=&icon_color=%2336A1B2&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
