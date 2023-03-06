@@ -1,6 +1,6 @@
 <div align="center">
 
-## :wave: 개발자가 되고 싶은 컴공입니다.
+## :wave: 개발자 지망 컴공입니다.
 컴공 개발자 지망생입니다.
 
 ## <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> GitHub 
