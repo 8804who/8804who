@@ -1,6 +1,6 @@
 <div align="center">
 
-## :wave: 인공지능 공부중입니다.
+## :wave: 현재 취준생(백수)입니다.
 부스트캠프 AI Tech 5기 수료(NLP 트랙)<br>
 제5회 Future Finance A.I. Challenge 특별상 수상<br>
 제2회 교원그룹 AI챌린지 대회 우수상 수상
