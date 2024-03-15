@@ -5,6 +5,7 @@
 부스트캠프 AI Tech 5기 NLP 트랙 수료(2023.03~2023.09)<br>
 제2회 교원그룹 AI챌린지 대회 우수상 수상(2023.07)<br>
 제5회 Future Finance A.I. Challenge 특별상 수상(2023.08)<br>
+개발자 글쓰기 모임 글또 9기(2023.12~2024.04)<br>
 데이콘 웹 로그 기반 조회수 예측 해커톤 수상(2위)(2024.03)
 
 ## <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> GitHub 
