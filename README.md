@@ -1,5 +1,5 @@
 <div align="center">
-
+ 
 ## :wave: 좋은 개발자가 되기 위해 준비하고 있는 김주성입니다.
 삼성SDS 2022 하계 알고리즘 특강 수료(2022.07)<br>
 부스트캠프 AI Tech 5기 NLP 트랙 수료(2023.03\~2023.09)<br>
@@ -22,3 +22,7 @@
 <a href="s">
  <img src="https://streak-stats.demolab.com?user=8804who&theme=tokyonight" width="44%" />
 </a>
+## <img src="https://user-images.githubusercontent.com/83859931/183429030-16ad6f8b-fb72-48e8-9f05-8df7f4c86643.png" alt="알고리즘 어려워요..." width="80"/> Baekjoon
+<a href="s">
+ <img src="http://mazassumnida.wtf/api/generate_badge?boj=8804who" width="42%"/>
+</div>
