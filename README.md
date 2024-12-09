@@ -1,13 +1,28 @@
 <div align="center">
  
-## :wave: Experiences
-삼성SDS 2022 하계 알고리즘 특강 수료(2022.07)<br>
-부스트캠프 AI Tech 5기 NLP 트랙 수료(2023.03\~2023.09)<br>
-제2회 교원그룹 AI챌린지 대회 우수상 수상(2023.07)<br>
-제5회 Future Finance A.I. Challenge 특별상 수상(2023.08)<br>
-개발자 글쓰기 모임 글또 9기(2023.12\~2024.04)<br>
-데이콘 웹 로그 기반 조회수 예측 해커톤 수상(2위)(2024.03)<br>
-개발자 글쓰기 모임 글또 10기(2024.09\~)
+## :wave: About Me 
+Hi, I'm Juseong! 🌟<br>
+I'm currently studying AI, especially NLP.<br>
+I'm also interested in LLM and playing with data!<br>
+I'd love to start a new project with you!<br>
+Please, feel free to chat with me anytime!
+
+ 
+## 👨🏻‍💻 Experiences
+Samsung SDS 2022 Summer Algorithm Special Lecture(2022.07)<br>
+Boostcamp AI Tech 5th NLP Track(2023.03\~2023.09)<br>
+Developer's writing club Geultto 9th(2023.12\~2024.04)<br>
+Developer's writing club Geultto 10th(2024.09\~)<br>
+
+## 🏆 Awards
+The 2nd KyowonGroup AI Challenge - Proposals for Generating AI-based Edutech Business Contest(3rd)(2023.07)<br>
+KB KOOKMIN BANK The 5th Future Finance A.I. Challenge(6th)(2023.08)<br>
+Dacon Web Log-Based View Forecast Hackathon(2nd)(2024.03)<br>
+
+## 📑 Certificate
+ADsP(2022.09)<br>
+SQLD(2024.03)<br>
+Engineer Information Processing(2024.06)<br>
 
 ## <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> GitHub 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F8804who%2Fhit-counter&count_bg=%236FC8D0&title_bg=%23498FED&icon=&icon_color=%2336A1B2&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
