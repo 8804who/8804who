@@ -5,7 +5,7 @@ Hi, I'm Juseong! 🌟<br>
 I'm currently studying AI, especially NLP.<br>
 I'm also interested in LLM and playing with data.<br>
 I'd love to start a new project with you!<br>
-Please, feel free to chat with me anytime!
+Please, feel free to reach out to me.
 
  
 ## 👨🏻‍💻 Experiences
