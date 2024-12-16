@@ -20,8 +20,8 @@ KB KOOKMIN BANK The 5th Future Finance A.I. Challenge(6th)(2023.08)<br>
 Dacon Web Log-Based View Forecast Hackathon(2nd)(2024.03)<br>
 
 ## 📑 Certificate
-ADsP(2022.09)<br>
-SQLD(2024.03)<br>
+Advanced Data Analytics Semi-Professional(ADsP)(2022.09)<br>
+SQL Developer(SQLD)(2024.03)<br>
 Engineer Information Processing(2024.06)<br>
 
 ## <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> GitHub 
