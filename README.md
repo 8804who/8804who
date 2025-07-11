@@ -27,7 +27,7 @@ Engineer Information Processing(2024.06)<br>
 ## <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> GitHub 
 <img src="https://github-readme-stats.vercel.app/api?username=8804who&theme=tokyonight" width="42%"/>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" width="42%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=8804who&layout=compact&theme=tokyonight" width="42%"/>
 <br>
 <img src="https://streak-stats.demolab.com?user=8804who&theme=tokyonight" width="42%" />
 
