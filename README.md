@@ -12,7 +12,7 @@ Please, feel free to reach out to me.
 Samsung SDS 2022 Summer Algorithm Special Lecture(2022.07)<br>
 Boostcamp AI Tech 5th NLP Track(2023.03\~2023.09)<br>
 Developer's writing club Geultto 9th(2023.12\~2024.04)<br>
-Developer's writing club Geultto 10th(2024.09\~)<br>
+Developer's writing club Geultto 10th(2024.09\~2025.02)<br>
 
 ## 🏆 Awards
 The 2nd KyowonGroup AI Challenge - Proposals for Generating AI-based Edutech Business Contest(3rd)(2023.07)<br>
