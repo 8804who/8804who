@@ -31,6 +31,8 @@ Engineer Information Processing(2024.06)<br>
 <br>
 <img src="https://streak-stats.demolab.com?user=8804who&theme=tokyonight" width="42%" />
 
+## <img src="https://github.com/user-attachments/assets/02321e62-ee39-4ff8-935f-4e52179b32cd" alt="꾸준히 글을 쓰자!" width="35"/> Velog
+[![velog](https://velo-card.profilecard.workers.dev/api?name=8804who&layout=thumbnail&theme=github_dark&count=3&tags=%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%2C%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%2C%ED%8C%8C%EC%9D%B4%EC%8D%AC)](https://velog.io/@8804who)
 
 ## <img src="https://user-images.githubusercontent.com/83859931/183429030-16ad6f8b-fb72-48e8-9f05-8df7f4c86643.png" alt="알고리즘 어려워요..." width="80"/> Baekjoon
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=8804who)](https://solved.ac/8804who)
